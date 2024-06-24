@@ -1,0 +1,37 @@
+[
+    {
+        "title": "A Cabana",
+        "image": "aCabanaCapa.jpg"    
+    }, 
+    
+    {
+        "title": "Joker",
+        "image": "joker.png"
+    },
+
+    {
+        "title": "Guerra Civil",
+        "image": "guerracivil.png"
+    },
+
+    {
+        "title": "Deadpool",
+        "image": "deadpool.jpg"
+    },
+    {
+        "title": "The Greatest Showman",
+        "image": "capa-filmeShowman.webp"
+    },
+    {
+        "title": "Como se fosse a primeira vez",
+        "image": "adamSandler.jpg"
+    },
+    {
+        "title": "Minha mãe é uma peça",
+        "image": "maePeca.jpg"
+    },
+    {
+        "title": "De pernas pro Ar",
+        "image": "pernasProAr.jpg"
+    }
+]
