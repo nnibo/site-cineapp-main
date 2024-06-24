@@ -49,12 +49,12 @@ function Home() {
                    
                         <div className="flex flex-row w-full justify-center">
                             <div className='flex flex-col'>
-                            <img className=' h-80 mr-16' src="../../Public/deadpoolTrailer.webp" alt="" />
+                            <img className=' h-80 mr-16' src="../../public/deadpoolTrailer.webp" alt="" />
                             <p className='flex justify-center mr-24 mt-4'>DEADPOOL TRAILER</p>
                             </div>
 
                             <div className='flex flex-col'>
-                            <img className=' h-80' src="../../Public/sonicTrailer.jpg" alt="" />
+                            <img className=' h-80' src="../../public/sonicTrailer.jpg" alt="" />
                             <p className='flex justify-center mt-4'>SONIC TRAILER</p>
                             </div>
                         </div>
