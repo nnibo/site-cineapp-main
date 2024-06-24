@@ -49,12 +49,12 @@ function Home() {
                    
                         <div className="flex flex-row w-full justify-center">
                             <div className='flex flex-col'>
-                            <img className=' h-80 mr-16' src="../../public/deadpoolTrailer.webp" alt="" />
+                            <img className=' h-80 mr-16' src="deadpoolTrailer.webp" alt="" />
                             <p className='flex justify-center mr-24 mt-4'>DEADPOOL TRAILER</p>
                             </div>
 
                             <div className='flex flex-col'>
-                            <img className=' h-80' src="../../public/sonicTrailer.jpg" alt="" />
+                            <img className=' h-80' src="sonicTrailer.jpg" alt="" />
                             <p className='flex justify-center mt-4'>SONIC TRAILER</p>
                             </div>
                         </div>
@@ -62,47 +62,6 @@ function Home() {
                     
 
 </div>
-        {/* {
-        (data.map)(
-                (filme, index) => (
-                    <>
-
-                    <h1 className='flex justify-center'>NOTICIA PRINCIPAL DO DIA</h1>
-                    <div className="flex flex-row" key={index}>
-                        <div className='flex flex-col'>
-                            <img src={filme.image}></img>
-                        </div>
-
-                        <div className="flex flex-col"></div>
-
-                    </div>
-                    
-                    <div className="card m-5" key={index}>
-                        <h1 className="p-2">{filme.title}</h1>
-                        <img className='mb-4' src={filme.image}/>
-                        <div className='tags'>
-                            {
-                                filme.tags.map( tag => (
-                                    <span className='bg-pink-800 text-white p-1 m-1 ' 
-                                    key={tag}>{tag}</span>
-                                    )
-                                    )
-                                }
-                        </div>
-
-                        <div className='text'>
-                            {
-                                filme.text.map( text => (
-                                    <p key={text}>{text}</p>
-                                    ))
-                                }
-                        </div>
-
-                    </div> 
-                </>
-                )
-            )    
-        }    */}
         </>
     );
 }
